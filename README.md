@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
  - Valeria Rodriguez a.21308051280403@cbtis128.edu.mx
 
-##  Resulta de mi aplicacion en FlutLab
+##  Resultado de mi aplicacion en FlutLab
 ![image](https://github.com/Rodriguezb128/p13-router0403/assets/143763162/7ac2912a-a3f8-485f-b315-3498081dd7b4)
 ![image](https://github.com/Rodriguezb128/p13-router0403/assets/143763162/4b3bafe1-3002-4cc2-84bd-81c456805d09)
 ![image](https://github.com/Rodriguezb128/p13-router0403/assets/143763162/58f034e1-4065-44a8-9aa1-7dbe7b18de9c)
